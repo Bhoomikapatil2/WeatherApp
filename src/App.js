@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
 
-const API_KEY = 'f9f662dd2defff951485ecd68967ccfc';
+const API_KEY = 'your_api_key';
 
 const Container = styled.div`
   display: flex;
